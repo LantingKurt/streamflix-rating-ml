@@ -2,7 +2,6 @@
 
 A machine learning project that predicts **age ratings** (e.g., PG, R, TV-MA) for movies and TV shows using metadata and content descriptions from major streaming platforms.
 
----
 
 ## 📌 Overview
 
